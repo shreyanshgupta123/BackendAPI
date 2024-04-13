@@ -1,0 +1,163 @@
+[
+    {
+      "name": "Masala Mantra",
+      "address": "1st Floor, HSR Layout, Bengaluru, Karnataka",
+      "rating": 4.3,
+      "review": "Great place for North Indian cuisine!",
+      "mobile": "+91 9876543201",
+      "pincode": "560102"
+    },
+    {
+      "name": "Taj Mahal Restaurant",
+      "address": "Park Street Area, Kolkata, West Bengal",
+      "rating": 4.5,
+      "review": "Excellent Mughlai dishes!",
+      "mobile": "+91 9876543202",
+      "pincode": "700016"
+    },
+    {
+      "name": "Punjab Grill",
+      "address": "Cyber Hub, DLF Cyber City, Gurugram, Haryana",
+      "rating": 4.7,
+      "review": "Best place for Punjabi cuisine!",
+      "mobile": "+91 9876543203",
+      "pincode": "122002"
+    },
+    {
+      "name": "Madras Cafe",
+      "address": "Anna Nagar, Chennai, Tamil Nadu",
+      "rating": 4.2,
+      "review": "Authentic South Indian flavors!",
+      "mobile": "+91 9876543204",
+      "pincode": "600040"
+    },
+    {
+      "name": "Rajputana Palace",
+      "address": "Tonk Road, Jaipur, Rajasthan",
+      "rating": 4.6,
+      "review": "Royal Rajasthani delicacies!",
+      "mobile": "+91 9876543205",
+      "pincode": "302015"
+    },
+    {
+      "name": "Fisherman's Wharf",
+      "address": "Cavelossim, South Goa, Goa",
+      "rating": 4.4,
+      "review": "Fresh seafood with a scenic view!",
+      "mobile": "+91 9876543206",
+      "pincode": "403731"
+    },
+    {
+      "name": "Nawabi Biryani House",
+      "address": "Indiranagar, Bengaluru, Karnataka",
+      "rating": 4.3,
+      "review": "Best biryani in town!",
+      "mobile": "+91 9876543207",
+      "pincode": "560038"
+    },
+    {
+      "name": "Kolkata Kebab Corner",
+      "address": "New Market Area, Kolkata, West Bengal",
+      "rating": 4.4,
+      "review": "Delicious kebabs!",
+      "mobile": "+91 9876543208",
+      "pincode": "700087"
+    },
+    {
+      "name": "Sarson da Saag",
+      "address": "Chandigarh Industrial Area, Chandigarh",
+      "rating": 4.8,
+      "review": "Authentic Punjabi food!",
+      "mobile": "+91 9876543209",
+      "pincode": "160002"
+    },
+    {
+      "name": "Chettinadu Cuisine",
+      "address": "Velachery, Chennai, Tamil Nadu",
+      "rating": 4.5,
+      "review": "Spicy and flavorful Chettinad dishes!",
+      "mobile": "+91 9876543210",
+      "pincode": "600042"
+    },
+    {
+      "name": "Royal Spice",
+      "address": "Jodhpur, Rajasthan",
+      "rating": 4.7,
+      "review": "Truly regal Rajasthani cuisine!",
+      "mobile": "+91 9876543211",
+      "pincode": "342001"
+    },
+    {
+      "name": "Goa Vibes",
+      "address": "Baga Beach, North Goa, Goa",
+      "rating": 4.6,
+      "review": "Enjoy Goa's vibes with amazing food!",
+      "mobile": "+91 9876543212",
+      "pincode": "403516"
+    },
+    {
+      "name": "Nawabi Zaika",
+      "address": "MG Road, Pune, Maharashtra",
+      "rating": 4.4,
+      "review": "Rich and flavorful Mughlai dishes!",
+      "mobile": "+91 9876543213",
+      "pincode": "411001"
+    },
+    {
+      "name": "Bengali Treat",
+      "address": "Salt Lake City, Kolkata, West Bengal",
+      "rating": 4.5,
+      "review": "Taste of Bengal's authentic cuisine!",
+      "mobile": "+91 9876543214",
+      "pincode": "700064"
+    },
+    {
+      "name": "Saffron Delight",
+      "address": "Old Delhi, Delhi",
+      "rating": 4.6,
+      "review": "Rich and aromatic Mughlai delights!",
+      "mobile": "+91 9876543215",
+      "pincode": "110006"
+    },
+    {
+      "name": "Kerala House",
+      "address": "Kochi, Kerala",
+      "rating": 4.3,
+      "review": "Authentic Kerala cuisine!",
+      "mobile": "+91 9876543216",
+      "pincode": "682001"
+    },
+    {
+      "name": "Lucknowi Delicacies",
+      "address": "Hazratganj, Lucknow, Uttar Pradesh",
+      "rating": 4.7,
+      "review": "Indulge in Lucknow's culinary heritage!",
+      "mobile": "+91 9876543217",
+      "pincode": "226001"
+    },
+    {
+      "name": "Koliwada Khaana",
+      "address": "Versova, Mumbai, Maharashtra",
+      "rating": 4.4,
+      "review": "Taste of Mumbai's coastal cuisine!",
+      "mobile": "+91 9876543218",
+      "pincode": "400061"
+    },
+    {
+      "name": "Nawab's Feast",
+      "address": "Gomti Nagar, Lucknow, Uttar Pradesh",
+      "rating": 4.5,
+      "review": "Feast fit for a nawab!",
+      "mobile": "+91 9876543219",
+      "pincode": "226010"
+    },
+    {
+      "name": "Malabar Spice",
+      "address": "Calicut, Kerala",
+      "rating": 4.6,
+      "review": "Experience the spice of Malabar!",
+      "mobile": "+91 9876543220",
+      "pincode": "673001"
+    }
+  ]
+  
